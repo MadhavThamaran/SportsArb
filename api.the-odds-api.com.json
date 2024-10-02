@@ -1,0 +1,3119 @@
+[
+    {
+        "id": "98d592ce811a32f64f0a2f4860544019",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-10-02T18:33:00Z",
+        "home_team": "Houston Astros",
+        "away_team": "Detroit Tigers",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 164
+                            },
+                            {
+                                "name": "Houston Astros",
+                                "price": -215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:01:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 155
+                            },
+                            {
+                                "name": "Houston Astros",
+                                "price": -200
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:01:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 190
+                            },
+                            {
+                                "name": "Houston Astros",
+                                "price": -250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-10-02T19:59:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 165
+                            },
+                            {
+                                "name": "Houston Astros",
+                                "price": -210
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:01:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 190
+                            },
+                            {
+                                "name": "Houston Astros",
+                                "price": -250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Detroit Tigers",
+                                "price": 175
+                            },
+                            {
+                                "name": "Houston Astros",
+                                "price": -230
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "190b17e451e5185e70fd80e93a719b9f",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-10-02T18:45:00Z",
+        "home_team": "Stoke City",
+        "away_team": "Portsmouth",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:56:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:56:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Portsmouth",
+                                "price": 10000
+                            },
+                            {
+                                "name": "Stoke City",
+                                "price": -20000
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 4600
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T19:56:09Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:56:09Z",
+                        "outcomes": [
+                            {
+                                "name": "Portsmouth",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Stoke City",
+                                "price": -20000
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 2800
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "094435d989aec74378ab793f62f4844a",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-10-02T18:45:00Z",
+        "home_team": "Preston North End",
+        "away_team": "Watford",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Preston North End",
+                                "price": -350
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 1350
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 340
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Preston North End",
+                                "price": -320
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 1100
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Preston North End",
+                                "price": -315
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 1100
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Preston North End",
+                                "price": -360
+                            },
+                            {
+                                "name": "Watford",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 360
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8c186e6eacf869303fea8a58eed7125c",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-10-02T18:45:00Z",
+        "home_team": "Sheffield United",
+        "away_team": "Swansea City",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Sheffield United",
+                                "price": -420
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Sheffield United",
+                                "price": -425
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Sheffield United",
+                                "price": -400
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 1600
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 380
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Sheffield United",
+                                "price": -460
+                            },
+                            {
+                                "name": "Swansea City",
+                                "price": 1700
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 390
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "49df80cd603eb90d28032238d5237c4c",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:00:00Z",
+        "home_team": "Benfica",
+        "away_team": "Atl\u00e9tico Madrid",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Atl\u00e9tico Madrid",
+                                "price": 625
+                            },
+                            {
+                                "name": "Benfica",
+                                "price": -190
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Atl\u00e9tico Madrid",
+                                "price": 550
+                            },
+                            {
+                                "name": "Benfica",
+                                "price": -165
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:00:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:00:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Atl\u00e9tico Madrid",
+                                "price": 450
+                            },
+                            {
+                                "name": "Benfica",
+                                "price": -167
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 240
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Atl\u00e9tico Madrid",
+                                "price": 600
+                            },
+                            {
+                                "name": "Benfica",
+                                "price": -175
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Atl\u00e9tico Madrid",
+                                "price": 550
+                            },
+                            {
+                                "name": "Benfica",
+                                "price": -170
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Atl\u00e9tico Madrid",
+                                "price": 510
+                            },
+                            {
+                                "name": "Benfica",
+                                "price": -175
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 255
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7562b2c9d40c486f4dbb82ac6e84b56a",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:00:00Z",
+        "home_team": "Liverpool",
+        "away_team": "Bologna",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Bologna",
+                                "price": 3300
+                            },
+                            {
+                                "name": "Liverpool",
+                                "price": -1400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 950
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Bologna",
+                                "price": 5000
+                            },
+                            {
+                                "name": "Liverpool",
+                                "price": -1300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 1000
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:00:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:00:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Bologna",
+                                "price": 3500
+                            },
+                            {
+                                "name": "Liverpool",
+                                "price": -1429
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 775
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Bologna",
+                                "price": 3000
+                            },
+                            {
+                                "name": "Liverpool",
+                                "price": -1400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 850
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Bologna",
+                                "price": 4000
+                            },
+                            {
+                                "name": "Liverpool",
+                                "price": -1300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 825
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Bologna",
+                                "price": 3300
+                            },
+                            {
+                                "name": "Liverpool",
+                                "price": -1250
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 900
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "07adb1215541bebf4a7fa8cfc7e55c2e",
+        "sport_key": "soccer_efl_champ",
+        "sport_title": "Championship",
+        "commence_time": "2024-10-02T19:00:00Z",
+        "home_team": "Bristol City",
+        "away_team": "Sheffield Wednesday",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:24Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:24Z",
+                        "outcomes": [
+                            {
+                                "name": "Bristol City",
+                                "price": 140
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 135
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Bristol City",
+                                "price": 130
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 390
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 135
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:23Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:23Z",
+                        "outcomes": [
+                            {
+                                "name": "Bristol City",
+                                "price": 134
+                            },
+                            {
+                                "name": "Sheffield Wednesday",
+                                "price": 320
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 144
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "917cb22cc696c440f5a0ed905b01dc8e",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:00:00Z",
+        "home_team": "SK Sturm Graz",
+        "away_team": "Club Brugge",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Club Brugge",
+                                "price": -450
+                            },
+                            {
+                                "name": "SK Sturm Graz",
+                                "price": 1400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 425
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Club Brugge",
+                                "price": -410
+                            },
+                            {
+                                "name": "SK Sturm Graz",
+                                "price": 1500
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 430
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:00:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:00:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Club Brugge",
+                                "price": -400
+                            },
+                            {
+                                "name": "SK Sturm Graz",
+                                "price": 775
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Club Brugge",
+                                "price": -390
+                            },
+                            {
+                                "name": "SK Sturm Graz",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 400
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Club Brugge",
+                                "price": -400
+                            },
+                            {
+                                "name": "SK Sturm Graz",
+                                "price": 1200
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 420
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Club Brugge",
+                                "price": -420
+                            },
+                            {
+                                "name": "SK Sturm Graz",
+                                "price": 1300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 410
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ff5b30552ffa82b2fcf5c6d8dda2b35c",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:00:00Z",
+        "home_team": "Dinamo Zagreb",
+        "away_team": "Monaco",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Dinamo Zagreb",
+                                "price": -110
+                            },
+                            {
+                                "name": "Monaco",
+                                "price": 290
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 220
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Dinamo Zagreb",
+                                "price": -105
+                            },
+                            {
+                                "name": "Monaco",
+                                "price": 330
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 210
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:00:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:00:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Dinamo Zagreb",
+                                "price": 360
+                            },
+                            {
+                                "name": "Monaco",
+                                "price": -111
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 170
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Dinamo Zagreb",
+                                "price": 105
+                            },
+                            {
+                                "name": "Monaco",
+                                "price": 295
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 200
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Dinamo Zagreb",
+                                "price": 110
+                            },
+                            {
+                                "name": "Monaco",
+                                "price": 280
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 205
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Dinamo Zagreb",
+                                "price": 106
+                            },
+                            {
+                                "name": "Monaco",
+                                "price": 280
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 220
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e5f9ec462d3fdac0873c8f599458ae91",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:00:00Z",
+        "home_team": "RB Leipzig",
+        "away_team": "Juventus",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Juventus",
+                                "price": 800
+                            },
+                            {
+                                "name": "RB Leipzig",
+                                "price": -220
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 280
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Juventus",
+                                "price": 850
+                            },
+                            {
+                                "name": "RB Leipzig",
+                                "price": -275
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:00:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:00:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Juventus",
+                                "price": 575
+                            },
+                            {
+                                "name": "RB Leipzig",
+                                "price": -250
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 290
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Juventus",
+                                "price": 800
+                            },
+                            {
+                                "name": "RB Leipzig",
+                                "price": -250
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Juventus",
+                                "price": 800
+                            },
+                            {
+                                "name": "RB Leipzig",
+                                "price": -240
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Juventus",
+                                "price": 800
+                            },
+                            {
+                                "name": "RB Leipzig",
+                                "price": -250
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 295
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "1321831df95a0a0013c888e3cff97e8f",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:01:00Z",
+        "home_team": "Aston Villa",
+        "away_team": "Bayern M\u00fcnchen",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "Aston Villa",
+                                "price": 440
+                            },
+                            {
+                                "name": "Bayern M\u00fcnchen",
+                                "price": -115
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 200
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Aston Villa",
+                                "price": 400
+                            },
+                            {
+                                "name": "Bayern M\u00fcnchen",
+                                "price": -115
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 180
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:00:39Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:00:39Z",
+                        "outcomes": [
+                            {
+                                "name": "Aston Villa",
+                                "price": 360
+                            },
+                            {
+                                "name": "Bayern M\u00fcnchen",
+                                "price": -125
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 200
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Aston Villa",
+                                "price": 425
+                            },
+                            {
+                                "name": "Bayern M\u00fcnchen",
+                                "price": -120
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 200
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Aston Villa",
+                                "price": 420
+                            },
+                            {
+                                "name": "Bayern M\u00fcnchen",
+                                "price": -117
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 205
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "Aston Villa",
+                                "price": 440
+                            },
+                            {
+                                "name": "Bayern M\u00fcnchen",
+                                "price": -127
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 200
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "805e801a8ca9ce9de1e9281c6218a77f",
+        "sport_key": "soccer_uefa_champs_league",
+        "sport_title": "UEFA Champions League",
+        "commence_time": "2024-10-02T19:01:00Z",
+        "home_team": "LOSC Lille",
+        "away_team": "Real Madrid",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T19:59:13Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:13Z",
+                        "outcomes": [
+                            {
+                                "name": "LOSC Lille",
+                                "price": 100
+                            },
+                            {
+                                "name": "Real Madrid",
+                                "price": 330
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 210
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "LOSC Lille",
+                                "price": -110
+                            },
+                            {
+                                "name": "Real Madrid",
+                                "price": 280
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 225
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "LOSC Lille",
+                                "price": -105
+                            },
+                            {
+                                "name": "Real Madrid",
+                                "price": 300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "LOSC Lille",
+                                "price": 108
+                            },
+                            {
+                                "name": "Real Madrid",
+                                "price": 275
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:36Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:36Z",
+                        "outcomes": [
+                            {
+                                "name": "LOSC Lille",
+                                "price": 105
+                            },
+                            {
+                                "name": "Real Madrid",
+                                "price": 280
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 215
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5013b29a336f56c618dc02c05893bc4e",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-10-02T20:39:00Z",
+        "home_team": "Baltimore Orioles",
+        "away_team": "Kansas City Royals",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -146
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 124
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:01:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -150
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:01:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -148
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 124
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-10-02T19:59:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -140
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 118
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:02:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -148
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -139
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 128
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:02:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -139
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 128
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -145
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 130
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:01:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -149
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 127
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Baltimore Orioles",
+                                "price": -143
+                            },
+                            {
+                                "name": "Kansas City Royals",
+                                "price": 120
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fdc56992c5dce4bb5b1fe852f1c89c36",
+        "sport_key": "cricket_caribbean_premier_league",
+        "sport_title": "CPLT20",
+        "commence_time": "2024-10-02T23:00:00Z",
+        "home_team": "Guyana Amazon Warriors",
+        "away_team": "Saint Lucia Kings",
+        "bookmakers": [
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:02:51Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:51Z",
+                        "outcomes": [
+                            {
+                                "name": "Guyana Amazon Warriors",
+                                "price": -155
+                            },
+                            {
+                                "name": "Saint Lucia Kings",
+                                "price": 120
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a4e9fad89d20ad0f93a21c8ea1376685",
+        "sport_key": "soccer_usa_mls",
+        "sport_title": "MLS",
+        "commence_time": "2024-10-02T23:30:00Z",
+        "home_team": "Atlanta United FC",
+        "away_team": "Montreal Impact",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -180
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 350
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -175
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 333
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -186
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 410
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 360
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -170
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 380
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 360
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -185
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 380
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 350
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -165
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 402
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 370
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -165
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 402
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 370
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Atlanta United FC",
+                                "price": -165
+                            },
+                            {
+                                "name": "Montreal Impact",
+                                "price": 402
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 370
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c0f6bc15cd3a0d31a6cecf5fc26db219",
+        "sport_key": "soccer_usa_mls",
+        "sport_title": "MLS",
+        "commence_time": "2024-10-02T23:30:00Z",
+        "home_team": "Charlotte FC",
+        "away_team": "Chicago Fire",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -160
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 380
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 290
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -160
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 400
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -177
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 420
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 325
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -155
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 390
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -165
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 370
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -150
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 415
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 315
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -150
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 415
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 315
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Charlotte FC",
+                                "price": -154
+                            },
+                            {
+                                "name": "Chicago Fire",
+                                "price": 407
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 319
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "637874f3dfe9d84a2555b83d57ce08c7",
+        "sport_key": "soccer_usa_mls",
+        "sport_title": "MLS",
+        "commence_time": "2024-10-02T23:30:00Z",
+        "home_team": "New York City FC",
+        "away_team": "FC Cincinnati",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 290
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -125
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 290
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 280
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -120
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 290
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 285
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -124
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 295
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 285
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -120
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 280
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -130
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 300
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -118
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 300
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -118
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "FC Cincinnati",
+                                "price": 285
+                            },
+                            {
+                                "name": "New York City FC",
+                                "price": -120
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6f63d1cd543696210c4c482049003e58",
+        "sport_key": "soccer_usa_mls",
+        "sport_title": "MLS",
+        "commence_time": "2024-10-02T23:30:00Z",
+        "home_team": "Toronto FC",
+        "away_team": "New York Red Bulls",
+        "bookmakers": [
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 160
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 150
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 240
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 165
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 150
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 240
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 175
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 145
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 240
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 170
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 150
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 255
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 170
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 145
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 235
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 184
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 152
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 184
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 152
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "New York Red Bulls",
+                                "price": 184
+                            },
+                            {
+                                "name": "Toronto FC",
+                                "price": 152
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 250
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7a56d1796ae904f1823cdb2630961398",
+        "sport_key": "soccer_usa_mls",
+        "sport_title": "MLS",
+        "commence_time": "2024-10-02T23:30:00Z",
+        "home_team": "Orlando City SC",
+        "away_team": "Philadelphia Union",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -130
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -135
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 300
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -139
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 320
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -130
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 295
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -135
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 285
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 310
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -125
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 315
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:03:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -125
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 315
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:03:33Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:03:33Z",
+                        "outcomes": [
+                            {
+                                "name": "Orlando City SC",
+                                "price": -125
+                            },
+                            {
+                                "name": "Philadelphia Union",
+                                "price": 315
+                            },
+                            {
+                                "name": "Draw",
+                                "price": 320
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "e70aecb7479a5cb8243fe375cc8b491a",
+        "sport_key": "baseball_mlb",
+        "sport_title": "MLB",
+        "commence_time": "2024-10-02T23:39:00Z",
+        "home_team": "Milwaukee Brewers",
+        "away_team": "New York Mets",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -118
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": "2024-10-02T20:01:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -120
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": "2024-10-02T20:01:03Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:03Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -115
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": -105
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": "2024-10-02T19:59:52Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T19:59:52Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -120
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 100
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": "2024-10-02T20:02:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -117
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 107
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "lowvig",
+                "title": "LowVig.ag",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -117
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 107
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": "2024-10-02T20:02:31Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:31Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -114
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": -103
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -124
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 104
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": "2024-10-02T20:01:02Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:01:02Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -120
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 102
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": "2024-10-02T20:02:32Z",
+                "markets": [
+                    {
+                        "key": "h2h",
+                        "last_update": "2024-10-02T20:02:32Z",
+                        "outcomes": [
+                            {
+                                "name": "Milwaukee Brewers",
+                                "price": -115
+                            },
+                            {
+                                "name": "New York Mets",
+                                "price": 105
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
