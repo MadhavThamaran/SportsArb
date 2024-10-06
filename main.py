@@ -20,6 +20,12 @@ for j in range(len(data)):
     sites = []
     
     flag = 1 if data[j]['bookmakers'][0]['markets'][0]['outcomes'][0]['price'] > 0.0 else 0
+
+    likelyTeam = data[j]['bookmakers'][0]['markets'][0]['outcomes'][0] if flag else data[j]['bookmakers'][0]['markets'][0]['outcomes'][1]
+    unlikelyTeam = data[j]['bookmakers'][0]['markets'][0]['outcomes'][1] if flag else data[j]['bookmakers'][0]['markets'][0]['outcomes'][0]
+
+    likelyTeamName = likelyTeam['name']
+    unlikelyTeamName = unlikelyTeam['name']
     
     # print("flag:", flag)
     for i in range(len(data[j]['bookmakers'])):
@@ -47,7 +53,7 @@ for j in range(len(data)):
         # print("Bet on unlikely team:", unlikelyBet, "on site:", sites[unlikelyTeam.index(max(unlikelyTeam))])
         # print("Payoff if likely team wins:", likelyBet * max(likelyTeam)/100.0)
         # print("Payoff if unlikely team wins:", unlikelyBet * max(unlikelyTeam)/100.0)
-        arbitrages.append([((likelyBet * max(likelyTeamVals)/100.0) * 100.0 - 100.0), ("Bet on likely team:", likelyBet, "on site:", sites[likelyTeamVals.index(max(likelyTeamVals))]), ("Bet on unlikely team:", unlikelyBet, "on site:", sites[unlikelyTeamVals.index(max(unlikelyTeamVals))])])
+        arbitrages.append([((likelyBet * max(likelyTeamVals)/100.0) * 100.0 - 100.0), ("Bet " + str(round(likelyBet, 2)) + " on " + likelyTeamName + " on " + sites[likelyTeamVals.index(max(likelyTeamVals))]), ("Bet " + str(round(unlikelyBet, 2)) + " on " + unlikelyTeamName + " on " + sites[unlikelyTeamVals.index(max(unlikelyTeamVals))])])
     # else:
         # print("arb does not exist")
     # print("========================================================================================")
